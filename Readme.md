@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [DashboardScripts.js](./CS/AspProject/DashboardScripts.js) (VB: [DashboardScripts.js](./VB/AspProject/DashboardScripts.js))
+* [Default.aspx](./CS/AspProject/Default.aspx) (VB: [Default.aspx](./VB/AspProject/Default.aspx))
+* [Default.aspx.cs](./CS/AspProject/Default.aspx.cs) (VB: [Default.aspx](./VB/AspProject/Default.aspx))
+* [DesignerForm.cs](./CS/WinFormsProject/DesignerForm.cs) (VB: [DesignerForm.vb](./VB/WinFormsProject/DesignerForm.vb))
+* [Program.cs](./CS/WinFormsProject/Program.cs) (VB: [Program.vb](./VB/WinFormsProject/Program.vb))
+<!-- default file list end -->
 # How to get visible data from a certain dashboard item and send it to a server
 
 
